@@ -20,7 +20,7 @@
   "scripts": {
     "start": "sudo react-scripts start",
     "build": "sudo react-scripts build",
-    "test": "sudo eact-scripts test",
+    "test": "sudo react-scripts test",
     "eject": "sudo react-scripts eject"
   },
   "eslintConfig": {
